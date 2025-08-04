@@ -9,6 +9,7 @@ description = "Rate limiter using a fixed window counter for arbitrary keys, cre
 keywords = ["actix-web", "rate-api", "rate-limit", "limitation"]
 categories = ["asynchronous", "web-programming"]
 repository = "https://github.com/meszmate/actix-limiter"
+license = "MIT"
 
 [features]
 default = ["session"]
